@@ -48,7 +48,10 @@ Si llegaste hasta esta parte parte es por que te interso,
 Todo esto es para provar que queiro Apreder A desarrollar Software(Libre-NoLibre) de una forma mas Profesional
 No solo con Estudio y practicas en mi CASA
 
-Celula: 0990068908 -> Extritamente Whatsapp 
-Correo: spovedav06@outlook.com 
-Direcion: Vergeles
+### Celula: 
+0990068908 -> Extritamente Whatsapp 
+### Correo: 
+spovedav06@outlook.com 
+### Direcion: 
+Vergeles
 
