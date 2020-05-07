@@ -13,7 +13,8 @@ TEMA: el tema de Xiomi es por que Tengo un Cell De esa marca
 - Banner Personalizado segun los productos agregados 
 - Panel de Productos(Agregar, Modificar, Eliminar)
 - Panel de Clientes(Agregar. Modificar, Eliminar)
-Falta:  
+
+-Falta:  
   - Agregar a carrito utilizando Redux
   - Una buena practica de session 
   - Termiar algunas cosas que queria poner  
