@@ -47,7 +47,7 @@ ETC...
 Si llegaste hasta esta parte parte es por que te interso, 
 Todo esto es para provar que queiro Apreder A desarrollar Software(Libre-NoLibre) de una forma mas Profesional
 No solo con Estudio y practicas en mi CASA
-
+-No la pude terminar(06-05-2020) Pero seguire trabajando en ella hasta poder entrar en empresa de Desarrollo de Software, una que tenga buen trato con sus Trabajadores y un sueldo decente *-ya estado en empresa pero no me han gustado-*     
 ### Celula: 
 0990068908 -> Extritamente Whatsapp 
 ### Correo: 
