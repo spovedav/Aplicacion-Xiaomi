@@ -2,7 +2,8 @@
 Sistema Complejo De Tienda Online De Ventas de (Celular, Laptops y Tv)  
 
 ## DESCARGA:
-### https://drive.google.com/open?id=1-9cWTZa1nyahkT6QZnGpEZcvPI5pxzKJ
+### Youtube Vista Previa: https://www.youtube.com/watch?v=zR1RsNHbFpE&feature=youtu.be
+### Chrome https://drive.google.com/open?id=1-9cWTZa1nyahkT6QZnGpEZcvPI5pxzKJ
 
 ## Proposito De Aplicación
 Esta aplicación fue desarrollada en primer lugar para provar y mantener mis conocimiento en ASP.NET C#
